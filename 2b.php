@@ -42,8 +42,7 @@
               <option value="Bandung">Bandung</option>
               <option value="Padang">Padang</option>
               <option value="Yogyakarta">Yogyakarta</option>
-              <option value="Bengkulu">Bengkulu</option>
-              <option value="Yogyakarta">Yogyakarta</option>            
+              <option value="Bengkulu">Bengkulu</option>         
             </select>
           </td>
         </tr>
